@@ -8,5 +8,7 @@
             "email": "elton869@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "2.1.1"
+    }
 }
