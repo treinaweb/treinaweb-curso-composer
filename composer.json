@@ -1,0 +1,12 @@
+{
+    "name": "treinaweb/projeto2",
+    "description": "projeto de testes do curso de composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Elton Fonseca",
+            "email": "elton869@gmail.com"
+        }
+    ],
+    "require": {}
+}
